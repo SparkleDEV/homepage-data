@@ -2,26 +2,26 @@
 	{
 		"display": "Mastodon",
 		"url": "https://tech.lgbt/@Sparkle",
-		"icon_url": "/icons/logos/Mastodon.svg"
+		"icon_url": "https://raw.githubusercontent.com/SparkleDEV/homepage-data/main/img/logos/Mastodon.svg"
 	},
 	{
 		"display": "Bluesky",
 		"url": "https://bsky.app/profile/thesparkle.bsky.social",
-		"icon_url": "/icons/logos/Bluesky.png"
+		"icon_url": "https://raw.githubusercontent.com/SparkleDEV/homepage-data/main/img/logos/Bluesky.png"
 	},
 	{
 		"display": "Twitter",
 		"url": "https://twitter.com/YouGotSparkled",
-		"icon_url": "/icons/logos/Twitter.svg"
+		"icon_url": "https://raw.githubusercontent.com/SparkleDEV/homepage-data/main/img/logos/Twitter.svg"
 	},
 	{
 		"display": "GitHub",
 		"url": "https://github.com/SparkleDEV",
-		"icon_url": "/icons/logos/GitHub.svg"
+		"icon_url": "https://raw.githubusercontent.com/SparkleDEV/homepage-data/main/img/logos/GitHub.svg"
 	},
 	{
 		"display": "Pronouns Page",
 		"url": "https://pronouns.page/@Sparkle",
-		"icon_url": "/icons/logos/PronounsPage.svg"
+		"icon_url": "https://raw.githubusercontent.com/SparkleDEV/homepage-data/main/img/logos/PronounsPage.svg"
 	}
 ]

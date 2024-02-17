@@ -1,10 +1,5 @@
 [
 	{
-		"display": "Discord",
-		"value": "thesparkle",
-		"icon_url": "https://sparkledev.github.io/homepage-data/img/logos/Discord.svg"
-	},
-	{
 		"display": "Matrix",
 		"value": "thesparkle@matrix.org",
 		"icon_url": "https://sparkledev.github.io/homepage-data/img/logos/Matrix.svg"
